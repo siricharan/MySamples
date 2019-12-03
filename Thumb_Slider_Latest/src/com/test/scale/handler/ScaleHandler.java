@@ -16,7 +16,7 @@ public class ScaleHandler extends AbstractHandler {
 			IViewPart view = page.showView("asynch.scale.views.Scale");
 			
 			//IViewPart view = page.showView("com.slider.newExample.view");
-			
+			//Added for test branch
 		} 
 		catch (PartInitException e) 
 		{
