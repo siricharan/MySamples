@@ -12,7 +12,7 @@
             icon="icons/sample.gif"
             category="Asynch_Scale"
             class="com.test.slider.view.ScaleView"
-            id="asynch.scale.views. Scale">
+            id="asynch.scale.views.Scale">
       </view>
    </extension>
    <extension
