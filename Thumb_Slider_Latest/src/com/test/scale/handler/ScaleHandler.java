@@ -17,7 +17,9 @@ public class ScaleHandler extends AbstractHandler {
 			
 			//IViewPart view = page.showView("com.slider.newExample.view");
 			
-		} catch (PartInitException e) {
+		} 
+		catch (PartInitException e) 
+		{
 			e.printStackTrace();
 		}
 		return null;
