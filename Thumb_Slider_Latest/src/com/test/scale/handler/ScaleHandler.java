@@ -14,6 +14,7 @@ public class ScaleHandler extends AbstractHandler {
 		IWorkbenchPage page = PlatformUI.getWorkbench().getActiveWorkbenchWindow().getActivePage();
 		try {
 			IViewPart view = page.showView("asynch.scale.views.Scale");
+			
 			//IViewPart view = page.showView("com.slider.newExample.view");
 			
 		} catch (PartInitException e) {
