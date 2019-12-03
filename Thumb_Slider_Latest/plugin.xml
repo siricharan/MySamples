@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="Sample Category"
+            id="Asynch_Scale">
+      </category>
+      <view
+            name="Asych Scale View"
+            icon="icons/sample.gif"
+            category="Asynch_Scale"
+            class="com.test.slider.view.ScaleView"
+            id="asynch.scale.views. Scale">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectiveExtensions">
+      <perspectiveExtension
+            targetID="org.eclipse.jdt.ui.JavaPerspective">
+         <view
+               ratio="0.5"
+               relative="org.eclipse.ui.views.TaskList"
+               relationship="right"
+               id="asynch.scale.views.SampleView">
+         </view>
+      </perspectiveExtension>
+   </extension>
+   <extension
+         point="org.eclipse.help.contexts">
+      <contexts
+            file="contexts.xml">
+      </contexts>
+   </extension>
+   <extension
+         point="org.eclipse.ui.commands">
+      <command
+            id="scale.command"
+            name="Show scale view">
+      </command>
+   </extension>
+   <extension
+         point="org.eclipse.ui.handlers">
+      <handler
+            class="com.test.scale.handler.ScaleHandler"
+            commandId="scale.command">
+      </handler>
+   </extension>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            allPopups="false"
+            locationURI="menu:org.eclipse.ui.main.menu?after=edit">
+         <menu
+               label="Scale">
+            <command
+                  commandId="scale.command"
+                  label="show scale"
+                  style="push">
+            </command>
+         </menu>
+      </menuContribution>
+   </extension>
+
+</plugin>
