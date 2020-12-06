@@ -27,4 +27,11 @@ class JUnit5ExampleTest
         JUnit5Example obj = new JUnit5Example();
         assertEquals(obj.getUpperMessage("Hello World!"), "HELLO WORLD!");
     }
+    
+        @Test
+    void testExample4()
+    {
+        JUnit5Example obj = new JUnit5Example();
+        assertEquals(obj.getUpperMessage("Hello World!"), "HELLO WORLD!");
+    }
 }
