@@ -3,7 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
-
+from developer1
+changes
 """
 name ="PyhtonBot"
 machine="VTBo"
