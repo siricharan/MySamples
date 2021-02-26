@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 from developer1
-changes
+changes for master
 """
 name ="PyhtonBot"
 machine="VTBo"
