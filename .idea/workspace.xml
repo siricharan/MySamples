@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16295e26-023e-4056-b553-e5dab210faa4" name="Changes" comment="Added small change">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/dicts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/fileHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/stings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/src/main/python/tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/src/main/python/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/src/main/python/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/src/main/python/pyfund/exception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/src/main/python/pyfund/exception_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/src/main/python/pyfund/set_algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/src/main/python/pyfund/set_algebra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/src/main/python/urllib_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/src/main/python/urllib_example.py" afterDir="false" />
-    </list>
+    <list default="true" id="16295e26-023e-4056-b553-e5dab210faa4" name="Changes" comment="Added small change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
