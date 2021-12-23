@@ -81,7 +81,7 @@ def main():
 if __name__ == '__main__':
     # print_converted(1)
     # print_converted('10')
-    # print_converted('1h')
+    print_converted('1h')
     # print_converted([1,2,1])
 
     # string_log(1)
