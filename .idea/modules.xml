@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_Samples.iml" filepath="$PROJECT_DIR$/.idea/Python_Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Worksapce/.idea/Worksapce.iml" filepath="$PROJECT_DIR$/../../Worksapce/.idea/Worksapce.iml" />
     </modules>
   </component>
 </project>
